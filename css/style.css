@@ -1,0 +1,116 @@
+.container {
+  margin: 0 auto;
+  max-width: 1110px;
+  font: 400 16px/26.25px roboto;
+}
+header {
+  background-color: #eeeff1;
+  padding-top: 79px;
+  width: 100%;
+}
+main {
+  width: 100%;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+}
+nav a {
+  color: #34547a;
+  margin-right: 42px;
+}
+main {
+  background-color: #eeeff1;
+}
+.container_disign {
+  padding-top: 151px;
+  padding-bottom: 141px;
+  max-width: 540px;
+}
+h1 {
+  margin: 0;
+  font: 500 48px/78.75px roboto;
+  margin-bottom: 60px;
+}
+p {
+  margin: 0;
+  color: #727272;
+}
+.button {
+  display: inline-block;
+  margin-top: 65px;
+  background-color: #34547a;
+  width: 225px;
+  height: 65px;
+  text-align: center;
+  padding-top: 19px;
+}
+.button > a {
+  color: #ffffff;
+}
+.container_about_me {
+  background-color: #ffffff;
+}
+.about_me {
+  padding: 112px 0;
+  margin: 0 auto;
+  max-width: 540px;
+  text-align: center;
+}
+h2 {
+  margin: 0;
+  font: 500 32px/37.5px roboto;
+}
+.about_me > h2 {
+  margin-bottom: 50px;
+}
+.container_skills {
+  background-color: #34547a;
+  padding: 100px 0;
+}
+.container_skills li {
+  margin-right: 40px;
+  color: white;
+  width: 140px;
+}
+li > div {
+  display: inline-block;
+}
+img {
+  width: 47px;
+  height: 50px;
+}
+.number {
+  font: 500 21px/24.61px roboto;
+}
+.work {
+  padding: 100px 0 57px 0;
+  margin: 0 auto;
+  max-width: 540px;
+  text-align: center;
+}
+.container_video {
+  padding-bottom: 100px;
+}
+footer {
+  width: 100%;
+  padding: 50px 0;
+  background-color: #34547a;
+  color: white;
+}
+
+.John {
+  font: 500 21px/24.61px roboto;
+}
+.all_right {
+  font: 400 13px/21.33px roboto;
+
+}
